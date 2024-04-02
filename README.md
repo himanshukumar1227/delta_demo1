@@ -6,3 +6,7 @@ this is demo for git &amp; github class.
 himanshu kumawat
 # new student 
 hari patidar
+
+# NEW STUDENT 
+dj sharma
+
